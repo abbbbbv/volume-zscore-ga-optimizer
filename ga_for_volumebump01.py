@@ -32,11 +32,6 @@ futures_list = [
     "SUIUSDT"       # SUI Network  
 ]
 
-futures_list = ["ETHUSDT","SOLUSDT","SUIUSDT","XRPUSDT","DOGEUSDT",
-                "ADAUSDT","BNBUSDT","AVAXUSDT","LINKUSDT","LTCUSDT",
-                "BCHUSDT","TRXUSDT"]
-
-
 VOLUME_THRESHOLD = 1 
 
 def collect_futures_data():

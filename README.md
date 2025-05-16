@@ -2,7 +2,7 @@
 
 ## Description
 
-Genetic algorithm-powered optimizer for backtesting a Binance Futures trading strategy based on Z-score volume surges and order flow analysis. This tool downloads historical data, detects statistically significant buy/sell pressure using volume anomalies, and evolves the best take-profit and stop-loss values using DEAP and backtesting.py.
+**Genetic algorithm**-powered optimizer for backtesting a Binance Futures trading strategy based on Z-score volume surges and order flow analysis. This tool downloads historical data, detects statistically significant buy/sell pressure using volume anomalies, and evolves the best take-profit and stop-loss values using **DEAP** and backtesting.py.
 
 ---
 
